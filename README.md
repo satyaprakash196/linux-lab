@@ -1,4 +1,4 @@
-inux User & Group Management Project
+A hands-on Linux Administration project demonstrating user creation, group management, ownership, permissions, and access control using Ubuntu Linux.
 
 ## Project Overview
 
