@@ -1,1 +1,12 @@
+sudo groupadd developers
+sudo groupadd testers
+sudo groupadd hr
 
+sudo useradd -m raj
+sudo usermod -aG developers raj
+
+sudo mkdir /company/developers
+
+sudo chown root:developers /company/developers
+
+sudo chmod 770 /company/developers
